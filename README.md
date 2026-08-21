@@ -1,9 +1,10 @@
-# 🚀 [Nombre de tu Proyecto]
-
-> Breve descripción de lo que hace tu proyecto, qué problema resuelve y por qué es útil.
-
-![Badge de Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)
-![Estado del Proyecto](https://img.shields.io/badge/Estado-Activo-success.svg)
+# 🚀 [Grupo 3]
+![Integrantes]
+> Anyelo Armando Castillo Mayta
+> Alexandra Milagros Mamani Casas
+> Ariana Fabiana del Valle Fuentes Contreras
+> Katherin Araceli Berrio Ordoñez
+> Ricardo Sebastián Murillo Sedano
 
 ---
 
