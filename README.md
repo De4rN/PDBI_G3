@@ -1,5 +1,5 @@
 # 🚀 [Grupo 3]
-![Integrantes]
+Integrantes
 > [Anyelo Armando Castillo Mayta]
 
 > [Alexandra Milagros Mamani Casas]
