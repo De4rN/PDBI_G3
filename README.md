@@ -18,7 +18,9 @@
 <details>
 <summary><strong> Propuesta 1 - Pupilometro portátil multimodal </strong></summary>
 
-Hola
+|---|
+| El rango de error al realizar una detección visual prehospitalaria de conmoción cerebral es considerablemente alto, situándose entre el 20% y el 60% de margen de error (lo que equivale a una sensibilidad diagnóstica de apenas el 40% al 80% según la prueba visual específica).<br><br>Debido a esto, la revisión puramente visual nunca se utiliza de forma aislada, sino como un filtro rápido dentro de un protocolo multimodal.
+El traumatismo craneoencefálico leve (TCE-l) y las conmociones cerebrales representan un desafío crítico en la atención prehospitalaria y el triaje de campo debido a la falta de herramientas diagnósticas objetivas y en tiempo real. Actualmente, la evaluación clínica se fundamenta en pruebas subjetivas —como la observación visual con linterna o escalas conductuales—, las cuales fallan en dos escenarios clínicos opuestos:<br><br>En **pacientes sintomáticos** (con mareo, cefalea, desorientación o visión borrosa): La evaluación médica tradicional carece de resolución para cuantificar la severidad real del daño. La inspección ocular a simple vista no permite medir microalteraciones de milisegundos ni variaciones sutiles en la dinámica pupilar.<br><br>En **pacientes asintomáticos o no comunicativos** (en rescates, desastres o conmociones silenciosas): Existe una "ventana ciega" donde el paciente no manifiesta síntomas inmediatos debido a compensación neurológica temprana, efectos de la adrenalina o estado de inconsciencia/sedación. |
 
 </details>
 
@@ -35,14 +37,3 @@ Hola
 Hola
 
 </details>
-
-| Propuesta 1 - Pupilometro portátil multimodal |
-|---|
-| El rango de error al realizar una detección visual prehospitalaria de conmoción cerebral es considerablemente alto, situándose entre el 20% y el 60% de margen de error (lo que equivale a una sensibilidad diagnóstica de apenas el 40% al 80% según la prueba visual específica).<br><br>Debido a esto, la revisión puramente visual nunca se utiliza de forma aislada, sino como un filtro rápido dentro de un protocolo multimodal.
-El traumatismo craneoencefálico leve (TCE-l) y las conmociones cerebrales representan un desafío crítico en la atención prehospitalaria y el triaje de campo debido a la falta de herramientas diagnósticas objetivas y en tiempo real. Actualmente, la evaluación clínica se fundamenta en pruebas subjetivas —como la observación visual con linterna o escalas conductuales—, las cuales fallan en dos escenarios clínicos opuestos:<br><br>En **pacientes sintomáticos** (con mareo, cefalea, desorientación o visión borrosa): La evaluación médica tradicional carece de resolución para cuantificar la severidad real del daño. La inspección ocular a simple vista no permite medir microalteraciones de milisegundos ni variaciones sutiles en la dinámica pupilar.<br><br>En **pacientes asintomáticos o no comunicativos** (en rescates, desastres o conmociones silenciosas): Existe una "ventana ciega" donde el paciente no manifiesta síntomas inmediatos debido a compensación neurológica temprana, efectos de la adrenalina o estado de inconsciencia/sedación. |
-
-
-- Propuesta 2 - Rango de movimiento-ROM en terapias de rodilla o codo
-- Propuesta 3 - Sistema de detección de cáncer de mama
-
-
