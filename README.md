@@ -16,14 +16,14 @@
 
 ## 🔍 Investigación - Problemáticas
 <details>
-<summary><strong> Propuesta 1 - Pupilometro portátil multimodal</strong></summary>
+<summary><strong> Propuesta 1 - Pupilometro portátil multimodal (YA NO)</strong></summary>
 
 Hola
 
 </details>
 
 <details>
-<summary><strong> Propuesta 2 - Rango de movimiento-ROM en terapias de rodilla o codo</strong></summary>
+<summary><strong> Propuesta 2 - Rango de movimiento-ROM en terapias de rodilla o codo (Ya no)</strong></summary>
 
 Hola
 
