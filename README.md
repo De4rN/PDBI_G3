@@ -23,14 +23,14 @@ Hola
 </details>
 
 <details>
-<summary><strong> Propuesta 2 - Monitoreo vesical por ultrasonido )</strong></summary>
+<summary><strong> Propuesta 2 - Monitoreo vesical por ultrasonido </strong></summary>
 
 Hola
 
 </details>
 
 <details>
-<summary><strong>Sistema de monitoreo de ergonomía en levantamiento de carga (prevención de lesiones laborales)</strong></summary>
+<summary><strong>Sistema de monitoreo de ergonomía en levantamiento de carga para prevención de lesiones laborales </strong></summary>
 
 Hola
 
