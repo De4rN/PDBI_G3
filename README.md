@@ -14,6 +14,8 @@
 | Katherin Araceli  Berrio Ordoñez | Electrónica |
 | Ricardo Sebastián Murillo Sedano| Diseño de producto y manufactura |
 
+**xc**
+
 ## 🔍 Investigación - Problemáticas
 
 | Propuesta 1 - Pupilometro portátil multimodal |
