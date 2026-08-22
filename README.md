@@ -14,7 +14,16 @@
 | Katherin Araceli  Berrio Ordoñez | Electrónica |
 | Ricardo Sebastián Murillo Sedano| Diseño de producto y manufactura |
 
-**xc**
+<details>
+<summary><strong>📋 Haz clic para ver las problemáticas</strong></summary>
+
+- 📢 **Comunicación**: Falta de comunicación entre equipos
+- ⏳ **Procesos**: Procesos manuales y lentos
+- 📊 **Datos**: Datos dispersos sin integración
+- 📈 **Escalabilidad**: Escalabilidad limitada
+- 🎨 **UX**: Experiencia de usuario inconsistente
+
+</details>
 
 ## 🔍 Investigación - Problemáticas
 
