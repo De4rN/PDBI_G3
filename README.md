@@ -9,7 +9,7 @@
 | Nombre | Función |
 |--------|---------|
 | Anyelo Armando Castillo Mayta | Programador |
-| Alexandra Milagros Mamani Casas | Electrónica -  Lider|
+| Alexandra Milagros Mamani Casas | Electrónica |
 | Ariana Fabiana del Valle Fuentes Contreras | Diseño de aplicación |
 | Katherin Araceli  Berrio Ordoñez | Electrónica |
 | Ricardo Sebastián Murillo Sedano| Diseño de producto y manufactura |
