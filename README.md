@@ -16,21 +16,21 @@
 
 ## 🔍 Investigación - Problemáticas
 <details>
-<summary><strong> Propuesta 1 - Pupilometro portátil multimodal (YA NO)</strong></summary>
+<summary><strong> Propuesta 1 - Pupilometro portátil multimodal </strong></summary>
 
 Hola
 
 </details>
 
 <details>
-<summary><strong> Propuesta 2 - Rango de movimiento-ROM en terapias de rodilla o codo (Ya no)</strong></summary>
+<summary><strong> Propuesta 2 - Monitoreo vesical por ultrasonido )</strong></summary>
 
 Hola
 
 </details>
 
 <details>
-<summary><strong> Propuesta 3 - Sistema de detección de cáncer de mama</strong></summary>
+<summary><strong>Sistema de monitoreo de ergonomía en levantamiento de carga (prevención de lesiones laborales)</strong></summary>
 
 Hola
 
