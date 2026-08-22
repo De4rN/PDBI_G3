@@ -30,7 +30,7 @@ Hola
 </details>
 
 <details>
-<summary><strong>Sistema de monitoreo de ergonomía en levantamiento de carga para prevención de lesiones laborales </strong></summary>
+<summary><strong> Propuesta 3 - Sistema de monitoreo de ergonomía en levantamiento de carga para prevención de lesiones laborales </strong></summary>
 
 Hola
 
