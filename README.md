@@ -23,10 +23,10 @@ Esta problemática es especialmente relevante en pacientes sintomáticos, en qui
 
 Referencias
 
-[1] D. Couret et al., “Reliability of standard pupillometry practice in neurocritical care: An observational, double-blinded study,” Critical Care, 2016.
-[2] C.-H. Hsu and L.-T. Kuo, “Application of Pupillometry in Neurocritical Patients,” Journal of Personalized Medicine, vol. 13, no. 7, Art. no. 1100, 2023, doi: 10.3390/jpm13071100.
-[3] M. D. Tello Vélez and J. R. Serrano Terreros, Revisión sistemática sobre factores asociados a mal pronóstico en pacientes con trauma craneoencefálico ingresados por el Departamento de Emergencia en América Latina, tesis de titulación, Universidad del Azuay, Cuenca, Ecuador, 2023.
-[4] B. A. Kotsias, “Traumatismo craneoencefálico,” Medicina (Buenos Aires), 2018.
+[1] D. Couret et al., “Reliability of standard pupillometry practice in neurocritical care: An observational, double-blinded study,” Critical Care, 2016..<br><br>
+[2] C.-H. Hsu and L.-T. Kuo, “Application of Pupillometry in Neurocritical Patients,” Journal of Personalized Medicine, vol. 13, no. 7, Art. no. 1100, 2023, doi: 10.3390/jpm13071100. .<br><br>
+[3] M. D. Tello Vélez and J. R. Serrano Terreros, Revisión sistemática sobre factores asociados a mal pronóstico en pacientes con trauma craneoencefálico ingresados por el Departamento de Emergencia en América Latina, tesis de titulación, Universidad del Azuay, Cuenca, Ecuador, 2023. .<br><br>
+[4] B. A. Kotsias, “Traumatismo craneoencefálico,” Medicina (Buenos Aires), 2018. .<br><br>
 
 ## 🔍 Estado del arte
 
