@@ -33,7 +33,9 @@ Referencias
 
 ## 🔍 Estado del arte
 
-### 1.1 Tecnología existente en el ámbito comercial
+### 1. Estado de la tecnología - Pupilómetros
+
+#### 1.1 Tecnología existente en el ámbito comercial
 
 #### 1.1.1 Pupilómetros infrarrojos clínicos y de investigación
 
@@ -74,7 +76,7 @@ Pupilómetro óptico portátil orientado a evaluaciones neurológicas. Integra t
 
 Figura 2.
 
-### 1.2 Tecnología en desarrollo y prototipos
+#### 1.2 Tecnología en desarrollo y prototipos
 
 #### LIOR™
 
@@ -190,7 +192,7 @@ Figura 5.
 | Procesamiento experimental | MATLAB |
 | Aplicación móvil | Android, desarrollada como parte del proyecto |
 
-### 1.3 Tecnología existente en el ámbito de patentes
+#### 1.3 Tecnología existente en el ámbito de patentes
 
 #### WO2020132754A1 A binocular campimetric pupillometer devide for neuropharmacological and functional brain assessment
 
@@ -295,7 +297,7 @@ La patente presenta un sistema para la evaluación automatizada de la respuesta 
 | Salida / Datos | Diámetros, latencia, velocidades de constricción/dilatación, amplitud, porcentaje de constricción, recuperación, entre otros |
 | Elemento distintivo | Integración de estímulo, captura y procesamiento en un dispositivo electrónico portátil |
 
-### 1.4 Factores comunes en el estado del arte
+#### 1.4 Factores comunes en el estado del arte - Pupilómetro
 
 | Factor común | Presencia en el estado del arte | Descripción / tendencia identificada |
 | --- | --- | --- |
@@ -315,5 +317,164 @@ La patente presenta un sistema para la evaluación automatizada de la respuesta 
 | Control de la luz ambiental | Media-Alta | Se utilizan máscaras, apoyos oculares y carcasas cerradas para disminuir la iluminación externa. Algunos diseños incorporan además filtros ópticos o sensores de iluminación ambiental. |
 | Automatización del protocolo de iluminación | Media-Alta | En varias patentes, el sistema controla automáticamente la iluminación infrarroja, el estímulo visible y el momento de adquisición de las imágenes siguiendo una secuencia previamente definida. |
 | Orientación hacia evaluación neurológica | Alta | Una parte importante de los dispositivos utiliza la respuesta pupilar como información cuantitativa para apoyar evaluaciones neurológicas. Algunas patentes incluso proponen analizar reflejos directos y consensuadas para inferir alteraciones de determinadas vías nerviosas. |
+
+### 2. Estado de la tecnología - Dispositivos de monitorización respiratoria acústica
+
+#### 2.1 Tecnología existente en el ámbito comercial
+
+#### Masimo rainbow Acoustic Monitoring® – RRa®
+
+El sistema rainbow Acoustic Monitoring® de Masimo es una tecnología comercial destinada a la monitorización continua y no invasiva de la frecuencia respiratoria mediante señales acústicas. Utiliza un sensor respiratorio acústico (RAS) colocado sobre el cuello o, dependiendo del paciente, sobre el tórax. El sensor detecta las vibraciones acústicas generadas por el flujo turbulento de aire en las vías respiratorias superiores durante la inhalación y la exhalación. La señal adquirida es procesada mediante algoritmos de procesamiento acústico de Masimo, que separan la señal respiratoria de otras señales y convierten los patrones acústicos detectados en ciclos respiratorios. A partir de estos ciclos se calcula continuamente la frecuencia respiratoria acústica RRa, expresada en respiraciones por minuto, además de generar una forma de onda respiratoria. El sistema puede integrarse con monitores Masimo para visualizar conjuntamente otros parámetros fisiológicos.
+
+#### Características
+
+| Característica | Descripción |
+| --- | --- |
+| Tipo de dispositivo | Sistema comercial de monitorización respiratoria acústica |
+| Variable medida | Frecuencia respiratoria acústica, RRa |
+| Principio de medición | Sonidos/vibraciones producidos por el flujo de aire respiratorio |
+| Sensor | Respiratory Acoustic Sensor (RAS) |
+| Ubicación del sensor | Cuello en adultos/pediátricos; también tórax en determinados pacientes |
+| Procesamiento | Procesamiento digital de señales acústicas |
+| Salida | FR en respiraciones/minuto + forma de onda acústica respiratoria |
+| Monitorización | Continua |
+| Contacto | Sí, mediante sensor adhesivo |
+| Aplicación | Monitorización clínica continua de frecuencia respiratoria |
+
+#### Componentes identificados
+
+| Característica | Descripción |
+| --- | --- |
+| Sensor RAS-45 / RAS-125c | Captura acústica de la respiración |
+| Elemento acústico/sensor | Detecta vibraciones producidas por inhalación y exhalación |
+| Cable RAM | Transmisión de la señal |
+| Unidad de procesamiento Masimo | Procesamiento de la señal acústica |
+| Monitor compatible | Visualización de RRa y onda respiratoria |
+
+![Figura del estado del arte](assets/estado-del-arte/figura-09.png)
+
+#### 2.2 Tecnología en desarrollo y prototipos
+
+#### Estimation of Respiratory Rate from Breathing Audio – Harvill et al. (2022)
+
+Este trabajo propone un sistema para estimar automáticamente la frecuencia respiratoria utilizando únicamente grabaciones de audio de la respiración. Su objetivo es permitir obtener este signo vital sin utilizar sensores respiratorios especializados, haciendo posible que la señal sea capturada mediante dispositivos ampliamente disponibles, como el micrófono de un smartphone. El algoritmo convierte la señal de audio en una representación de espectrograma, que permite observar cómo se distribuye la energía acústica en frecuencia y tiempo. Posteriormente, los ciclos respiratorios son reconocidos utilizando una red neuronal recurrente (RNN) entrenada mediante etiquetas que indican los ciclos de respiración. Los autores incorporaron además técnicas de aumento de datos para compensar el tamaño reducido de las bases de datos respiratorias disponibles. El método obtuvo un error absoluto medio (MAE) de aproximadamente 1.0 respiración/minuto en la estimación de la frecuencia respiratoria. Los autores destacan que la señal requerida puede ser obtenida mediante un smartphone, permitiendo una medición automatizada y económica en entornos remotos.
+
+#### Características
+
+| Característica | Descripción |
+| --- | --- |
+| Tipo de sistema | Prototipo/algoritmo de estimación acústica de FR |
+| Entrada | Audio respiratorio |
+| Sensor propuesto | Micrófono; puede utilizarse el de un smartphone |
+| Representación de señal | Espectrograma |
+| Modelo | Red neuronal recurrente (RNN) |
+| Procesamiento | Machine learning + procesamiento espectral |
+| Variable calculada | Frecuencia respiratoria |
+| Salida | Respiraciones por minuto |
+| MAE reportado | ≈ 1.0 respiración/min |
+| Contacto con el paciente | No necesariamente |
+| Aplicación propuesta | Telemedicina y evaluación remota de signos vitales |
+
+#### Componentes identificados
+
+| Característica | Descripción |
+| --- | --- |
+| Micrófono | 1; modelo específico no indicado |
+| Smartphone/dispositivo de adquisición | 1 |
+| Procesamiento de audio | Generación de espectrograma |
+| Algoritmo | RNN |
+| Software | Procesamiento y modelo de machine learning |
+
+#### Respiratory Rate Estimation from Breath Sounds Based on Deep Learning – 2026
+
+Este trabajo propone un sistema de deep learning para estimar frecuencia respiratoria a partir de sonidos respiratorios, con especial énfasis en mantener una medición adecuada cuando existen altos niveles de ruido ambiental. Esto es particularmente relevante para un posible uso en operaciones de emergencia o rescate, donde pueden existir conversaciones, vehículos, sirenas y otros sonidos externos. La señal respiratoria es transformada en espectrogramas, que posteriormente son procesados mediante redes neuronales convolucionales preentrenadas. El estudio compara distintas arquitecturas y métodos, incluyendo CNN, LSTM y ResNet50. La red ResNet50 presentó el mejor comportamiento en condiciones acústicas adversas. Los investigadores construyeron una base de datos de 17 850 señales respiratorias, incluyendo señales limpias y señales combinadas con diferentes tipos de ruido. El intervalo de frecuencia respiratoria analizado fue aproximadamente de 8 a 24 respiraciones/minuto, por lo que incluye valores respiratorios bajos. Las señales fueron convertidas a mono y procesadas a una frecuencia de muestreo de 8 kHz. En condiciones especialmente ruidosas, con una relación señal-ruido de −20 dB, ResNet50 consiguió un MAE de 0.63 respiraciones/minuto, mientras que LSTM obtuvo 2.35 y CNN 3.12 respiraciones/minuto.
+
+#### Características
+
+| Característica | Descripción |
+| --- | --- |
+| Tipo de sistema | Sistema experimental de estimación acústica de FR |
+| Entrada | Sonidos respiratorios |
+| Procesamiento inicial | Conversión a espectrograma |
+| Frecuencia de muestreo utilizada | 8 kHz |
+| Algoritmos evaluados | CNN, LSTM, ResNet50 y otros métodos |
+| Mejor arquitectura | ResNet50 |
+| Rango de FR del dataset principal | 8–24 respiraciones/minuto |
+| Cantidad de señales del dataset | 17 850 |
+| MAE ResNet50 a −20 dB | 0.63 resp/min |
+| MAE LSTM a −20 dB | 2.35 resp/min |
+| MAE CNN a −20 dB | 3.12 resp/min |
+| Fortaleza principal | Robustez frente a ruido ambiental |
+
+#### Componentes identificados
+
+| Característica | Descripción |
+| --- | --- |
+| Sistema de adquisición acústica | Captura de sonidos respiratorios; el artículo no define un único micrófono comercial obligatorio |
+| Audio digital | Mono, 8 kHz |
+| Transformación | Espectrograma |
+| Procesador | Plataforma capaz de ejecutar el modelo DL |
+| Modelo principal | ResNet50 |
+| Salida | Frecuencia respiratoria en resp/min |
+
+![Figura del estado del arte](assets/estado-del-arte/figura-10.png)
+
+Fig. Espectrogramas de auscultación correspondientes a registros respiratorios: (i) FR = 10 rpm, con una duración de aproximadamente 6 s por ciclo respiratorio (parte superior); (ii) FR = 24 rpm, con una duración de aproximadamente 2,5 s por ciclo respiratorio (parte inferior).
+
+#### 2.3 Tecnología existente en el ámbito de patentes
+
+#### US12551113B1 – Audio Detection and Monitoring of Respiration
+
+Esta patente de Apple Inc. propone un sistema para detectar y monitorizar la respiración utilizando datos de audio adquiridos mediante uno o más micrófonos. Los micrófonos pueden estar integrados en dispositivos portátiles, como auriculares, earbuds, teléfonos inteligentes, tablets o relojes inteligentes. La información acústica es posteriormente analizada mediante modelos de machine learning. El sistema utiliza una arquitectura de aprendizaje multitarea que puede procesar simultáneamente distintas características del audio. A partir de una grabación respiratoria, el modelo puede proporcionar como salida la frecuencia respiratoria, detectar condiciones respiratorias como respiración normal o intensa y determinar las condiciones de ruido presentes en la señal. La patente contempla la generación de espectrogramas a partir de las grabaciones y propone arquitecturas como redes LSTM multitarea y redes LSTM con convolución temporal. El procesamiento puede realizarse localmente en el dispositivo electrónico o mediante otro dispositivo asociado. Una característica especialmente relevante es que el modelo distingue entre información respiratoria y ruido ambiental. Además, la patente contempla que una aplicación genere alertas cuando se detecten frecuencias respiratorias anómalas.
+
+#### Características
+
+| Característica | Descripción |
+| --- | --- |
+| Tipo de tecnología | Monitorización respiratoria acústica mediante ML |
+| Titular | Apple Inc. |
+| Entrada | Grabaciones o streaming de audio |
+| Sensor | Uno o múltiples micrófonos |
+| Dispositivos contemplados | Earbuds, auriculares, smartphone, tablet, smartwatch |
+| Preprocesamiento | Generación de espectrogramas |
+| Algoritmos | Multi-task LSTM / Time-Convolutional LSTM |
+| Salida 1 | Frecuencia respiratoria |
+| Salida 2 | Condición respiratoria |
+| Salida 3 | Condición de ruido |
+| Alertas | Posibilidad de alertar ante frecuencias respiratorias anómalas |
+| Elemento distintivo | Análisis conjunto de respiración y ruido ambiental |
+
+#### Componentes identificados
+
+| Característica | Descripción |
+| --- | --- |
+| Uno o más micrófonos | Auriculares/earbuds u otro sistema acústico |
+| Dispositivo de audio | Auriculares/earbuds u otro sistema acústico |
+| Procesador | Ejecutar los algoritmos de análisis |
+| Memoria | Almacenar software/modelos/datos |
+| Smartphone/watch/tablet | Procesamiento o visualización |
+| Modelo ML | Estimación de FR y clasificación |
+| Motor de preprocesamiento | Conversión del audio en espectrogramas |
+| Sistema de comunicación | Bluetooth/Wi-Fi u otras comunicaciones según implementación |
+
+#### 2.4 Factores comunes en el estado del arte - Monitorización respiratoria acústica
+
+| Factor común | Presencia en el estado del arte | Descripción / tendencia identificada |
+| --- | --- | --- |
+| Captura de sonidos respiratorios | Muy alta | Todos los sistemas utilizan señales acústicas generadas durante la inhalación y exhalación como fuente principal para obtener información respiratoria. |
+| Uso de micrófonos o sensores acústicos | Muy alta | La adquisición se realiza mediante micrófonos convencionales, micrófonos integrados en smartphones o sensores acústicos especializados. |
+| Estimación de frecuencia respiratoria | Muy alta | La variable principal obtenida es la frecuencia respiratoria expresada en respiraciones por minuto, a partir de la detección o estimación de ciclos respiratorios. |
+| Procesamiento digital de audio | Muy alta | Las señales capturadas requieren filtrado, transformación y análisis digital para separar la respiración de otras señales acústicas y obtener la FR. |
+| Conversión a espectrogramas | Alta | Los sistemas basados en aprendizaje automático suelen transformar el audio en representaciones tiempo-frecuencia, como espectrogramas, antes de realizar la estimación. |
+| Uso de Machine Learning / Deep Learning | Alta | Los desarrollos recientes emplean redes neuronales como RNN, LSTM, CNN o ResNet para reconocer patrones respiratorios y estimar la frecuencia respiratoria. |
+| Manejo del ruido ambiental | Alta | La reducción o identificación del ruido constituye un elemento importante, especialmente para aplicaciones fuera de entornos clínicos controlados. Algunos modelos son entrenados específicamente con señales respiratorias contaminadas con ruido. |
+| Monitorización automática | Muy alta | Existe una tendencia a obtener la FR automáticamente, reduciendo la necesidad de que un operador cuente manualmente las respiraciones. |
+| Detección de frecuencias respiratorias anómalas | Media-Alta | Una vez calculada la FR, los sistemas pueden comparar el resultado con límites establecidos y generar avisos cuando la frecuencia se encuentra fuera del rango esperado. |
+| Portabilidad | Alta | Varios sistemas utilizan smartphones, dispositivos portátiles, wearables o electrónica compacta para realizar la adquisición y procesamiento de las señales respiratorias. |
+| Procesamiento integrado | Alta | Los sistemas recientes tienden a procesar las señales directamente en dispositivos electrónicos portátiles o asociados, disminuyendo la dependencia de equipos externos especializados. |
+| Presentación digital de resultados | Alta | La salida suele mostrarse como frecuencia respiratoria numérica, forma de onda respiratoria, clasificación del estado respiratorio o alertas. |
+| Monitorización continua o repetida | Alta | Las tecnologías acústicas permiten adquirir la señal durante períodos prolongados y actualizar la estimación de FR a medida que se registran nuevas respiraciones. |
+| Bajo requerimiento de hardware | Alta | En comparación con otros métodos fisiológicos, la adquisición puede realizarse con pocos componentes: principalmente micrófono/sensor acústico, procesador y software. |
+| Aplicación potencial en entornos de emergencia | Media-Alta | El tamaño reducido del hardware y la posibilidad de medir FR automáticamente hacen atractiva esta tecnología para dispositivos de primera respuesta, aunque el ruido ambiental representa uno de sus principales desafíos. |
 
 ## 📃 Lista de exigencias
