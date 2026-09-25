@@ -17,6 +17,7 @@
 <details>
 <summary><b>👩‍💻 Problemática</b></summary>
 
+
 <p align="justify">
 El traumatismo craneoencefálico (TCE) constituye una de las principales causas de muerte y discapacidad a nivel mundial y representa una carga económica y social para los sistemas de salud. Se estima que la incidencia anual global de TCE alcanza aproximadamente los 69 a 70 millones de casos. De esta cifra, cerca de 13,1 millones de personas (18,98%) requieren hospitalización y  aproximadamente 6 millones de pacientes deben someterse a intervenciones neuroquirúrgicas anualmente [1], [2]. La prevalencia de personas que viven con secuelas y discapacidad por TCE se estima en 55 millones [3]. Así mismo, se reportan cerca de 5 millones de muertes anuales por esta causa a nivel mundial, demostrando la mortalidad alarmante del TCE. [4]. Además del costo humano el impacto económico es masivo. Se estima un gasto de 400 mil millones de dólares globales en atención médica, rehabilitación y pérdida de productividad [5].
 </p>
@@ -71,25 +72,26 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 
 <details>
 <summary><b>🔍 Estado del arte</b></summary>
+[Estado de la tecnología.pdf](https://github.com/user-attachments/files/32668425/Estado.de.la.tecnologia.pdf)
 
-uwu
 </details>
 
 <details>
 <summary><b>📃 Lista de exigencias</b></summary>
+[Lista de Exigencias y Plan de Trabajo.pdf](https://github.com/user-attachments/files/32668453/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf)
 
-uwu
 </details>
 
 <details>
 <summary><b>⚒️ Estructura de funciones</b></summary>
-
-uwu
+[Secuencia de operaciones.pdf](https://github.com/user-attachments/files/32668470/Secuencia.de.operaciones.pdf)
 
 </details>
 
 <details>
 <summary><b>📒 HITO 1</b></summary>
+[Hito 1 - Grupo 3 presentacion.pdf](https://github.com/user-attachments/files/32668516/Hito.1.-.Grupo.3.presentacion.pdf)
+[Hito 1 - Grupo 3 informe.pdf](https://github.com/user-attachments/files/32668515/Hito.1.-.Grupo.3.informe.pdf)
 
 uwu
 
