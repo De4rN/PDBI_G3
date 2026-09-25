@@ -73,7 +73,9 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 <details>
 <summary><b>🔍 Estado del arte</b></summary>
   
-  [Estado de la tecnología.pdf](https://github.com/user-attachments/files/32668425/Estado.de.la.tecnologia.pdf)
+  <p align="center">
+  <embed src="https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Estado.de.la.tecnologia.pdf" type="application/pdf" width="100%" height="600px" />
+</p>
 
 </details>
 
