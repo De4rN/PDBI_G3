@@ -90,8 +90,10 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 
 <details>
 <summary><b>📒 HITO 1</b></summary>
-[Hito 1 - Grupo 3 presentacion.pdf](https://github.com/user-attachments/files/32668516/Hito.1.-.Grupo.3.presentacion.pdf)
-[Hito 1 - Grupo 3 informe.pdf](https://github.com/user-attachments/files/32668515/Hito.1.-.Grupo.3.informe.pdf)
+
+  [Hito 1 - Grupo 3 presentacion.pdf](https://github.com/user-attachments/files/32668516/Hito.1.-.Grupo.3.presentacion.pdf)
+
+  [Hito 1 - Grupo 3 informe.pdf](https://github.com/user-attachments/files/32668515/Hito.1.-.Grupo.3.informe.pdf)
 
 uwu
 
