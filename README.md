@@ -73,36 +73,33 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 <details>
   <summary><b>🔍 Estado del arte</b></summary>
   <br>
-  <p align="center">
-    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Estado.de.la.tecnologia.pdf" width="100%" height="600px"></iframe>
-  </p>
+  <ul>
+    <li>📄 <a href="https://github.com/MamaniAlexandra/docs/blob/main/docs/Estado.de.la.tecnologia.pdf" target="_blank"><b>Ver Estado de la tecnología (Visor de GitHub)</b></a></li>
+    <li>🌐 <a href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/docs/Estado.de.la.tecnologia.pdf" target="_blank"><b>Abrir en pantalla completa</b></a></li>
+  </ul>
 </details>
 
 <details>
   <summary><b>📃 Lista de exigencias</b></summary>
   <br>
-  <p align="center">
-    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf" width="100%" height="600px"></iframe>
-  </p>
+  <ul>
+    <li>📄 <a href="https://github.com/MamaniAlexandra/docs/blob/main/docs/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf" target="_blank"><b>Ver Lista de Exigencias y Plan de Trabajo (Visor de GitHub)</b></a></li>
+  </ul>
 </details>
 
 <details>
   <summary><b>⚒️ Estructura de funciones</b></summary>
   <br>
-  <p align="center">
-    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Secuencia.de.operaciones.pdf" width="100%" height="600px"></iframe>
-  </p>
+  <ul>
+    <li>📄 <a href="https://github.com/MamaniAlexandra/docs/blob/main/docs/Secuencia.de.operaciones.pdf" target="_blank"><b>Ver Secuencia de operaciones (Visor de GitHub)</b></a></li>
+  </ul>
 </details>
 
 <details>
   <summary><b>📒 HITO 1</b></summary>
   <br>
-  <p align="center">
-    <b>Presentación:</b>
-    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Hito.1.-.Grupo.3.presentacion.pdf" width="100%" height="500px"></iframe>
-  </p>
-  <p align="center">
-    <b>Informe:</b>
-    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Hito.1.-.Grupo.3.informe.pdf" width="100%" height="500px"></iframe>
-  </p>
+  <ul>
+    <li>📊 <a href="https://github.com/MamaniAlexandra/docs/blob/main/docs/Hito.1.-.Grupo.3.presentacion.pdf" target="_blank"><b>Ver Hito 1 - Presentación</b></a></li>
+    <li>📝 <a href="https://github.com/MamaniAlexandra/docs/blob/main/docs/Hito%201%20-%20Grupo%203%20informe.pdf" target="_blank"><b>Ver Hito 1 - Informe</b></a></li>
+  </ul>
 </details>
