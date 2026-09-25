@@ -1,4 +1,4 @@
-# 🚀 [Grupo 3]
+# 🚀 Grupo 3
 
 ## 👥 Foto grupal
 
@@ -34,7 +34,7 @@ uwu
 </details>
 
 <details>
-<summary><b>📃 HITO 1</b></summary>
+<summary><b>🚀 HITO 1</b></summary>
 
 uwu
 
