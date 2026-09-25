@@ -72,27 +72,26 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 
 <details>
 <summary><b>🔍 Estado del arte</b></summary>
-[Estado de la tecnología.pdf](https://github.com/user-attachments/files/32668425/Estado.de.la.tecnologia.pdf)
+  [Estado de la tecnología.pdf](https://github.com/user-attachments/files/32668425/Estado.de.la.tecnologia.pdf)
 
 </details>
 
 <details>
 <summary><b>📃 Lista de exigencias</b></summary>
-[Lista de Exigencias y Plan de Trabajo.pdf](https://github.com/user-attachments/files/32668453/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf)
+  [Lista de Exigencias y Plan de Trabajo.pdf](https://github.com/user-attachments/files/32668453/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf)
 
 </details>
 
 <details>
 <summary><b>⚒️ Estructura de funciones</b></summary>
-[Secuencia de operaciones.pdf](https://github.com/user-attachments/files/32668470/Secuencia.de.operaciones.pdf)
+  [Secuencia de operaciones.pdf](https://github.com/user-attachments/files/32668470/Secuencia.de.operaciones.pdf)
 
 </details>
 
 <details>
 <summary><b>📒 HITO 1</b></summary>
-
+  
   [Hito 1 - Grupo 3 presentacion.pdf](https://github.com/user-attachments/files/32668516/Hito.1.-.Grupo.3.presentacion.pdf)
-
   [Hito 1 - Grupo 3 informe.pdf](https://github.com/user-attachments/files/32668515/Hito.1.-.Grupo.3.informe.pdf)
 
 uwu
