@@ -71,32 +71,38 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 </details>
 
 <details>
-<summary><b>🔍 Estado del arte</b></summary>
-  
+  <summary><b>🔍 Estado del arte</b></summary>
+  <br>
   <p align="center">
-  <embed src="https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Estado.de.la.tecnologia.pdf" type="application/pdf" width="100%" height="600px" />
+    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Estado.de.la.tecnologia.pdf" width="100%" height="600px"></iframe>
   </p>
-
 </details>
 
 <details>
-<summary><b>📃 Lista de exigencias</b></summary>
-  [Lista de Exigencias y Plan de Trabajo.pdf](https://github.com/user-attachments/files/32668453/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf)
-
+  <summary><b>📃 Lista de exigencias</b></summary>
+  <br>
+  <p align="center">
+    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf" width="100%" height="600px"></iframe>
+  </p>
 </details>
 
 <details>
-<summary><b>⚒️ Estructura de funciones</b></summary>
-  [Secuencia de operaciones.pdf](https://github.com/user-attachments/files/32668470/Secuencia.de.operaciones.pdf)
-
+  <summary><b>⚒️ Estructura de funciones</b></summary>
+  <br>
+  <p align="center">
+    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Secuencia.de.operaciones.pdf" width="100%" height="600px"></iframe>
+  </p>
 </details>
 
 <details>
-<summary><b>📒 HITO 1</b></summary>
-  
-  [Hito 1 - Grupo 3 presentacion.pdf](https://github.com/user-attachments/files/32668516/Hito.1.-.Grupo.3.presentacion.pdf)
-  [Hito 1 - Grupo 3 informe.pdf](https://github.com/user-attachments/files/32668515/Hito.1.-.Grupo.3.informe.pdf)
-
-uwu
-
+  <summary><b>📒 HITO 1</b></summary>
+  <br>
+  <p align="center">
+    <b>Presentación:</b>
+    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Hito.1.-.Grupo.3.presentacion.pdf" width="100%" height="500px"></iframe>
+  </p>
+  <p align="center">
+    <b>Informe:</b>
+    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/MamaniAlexandra/docs/main/Hito.1.-.Grupo.3.informe.pdf" width="100%" height="500px"></iframe>
+  </p>
 </details>
