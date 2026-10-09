@@ -72,20 +72,24 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 
 <details>
   <summary><b>🔍 Estado del arte</b></summary>
-  
+  [Estado de la tecnologia.pdf](https://github.com/user-attachments/files/33267630/Estado.de.la.tecnologia.pdf)
+
 </details>
 
 <details>
   <summary><b>📃 Lista de exigencias</b></summary>
-  
+  [Lista de Exigencias y Plan de Trabajo.pdf](https://github.com/user-attachments/files/33267642/Lista.de.Exigencias.y.Plan.de.Trabajo.pdf)
+
 </details>
 
 <details>
   <summary><b>⚒️ Estructura de funciones</b></summary>
+  Enlace miro: https://miro.com/welcomeonboard/N0RwK0hMVFI0dm8yVi9XR3Z5cUVWM0s4dGVqc1RsRTV5TGJCMHFGSnlodnVZWUtXd0dtOGRmVmJJUG5waTlCTis2NEh6SDNrMFd2NVhLL3huM0NwUkd3WUhSbnlzVXB1bU9SRlZEVktjOEJFazZ2UG1Wa2t5ZkJrSmdsUXE1bmdBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=898443066497
   
 </details>
 
 <details>
   <summary><b>📒 HITO 1</b></summary>
- 
+  PRESENTACION: [Hito 1 - Grupo 3 informe (1).pdf](https://github.com/user-attachments/files/33267702/Hito.1.-.Grupo.3.informe.1.pdf)
+  INFORME: [Hito.1.-.Grupo.3.presentacion (1).pdf](https://github.com/user-attachments/files/33267700/Hito.1.-.Grupo.3.presentacion.1.pdf)
 </details>
