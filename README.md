@@ -85,6 +85,7 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 <details>
   <summary><b>⚒️ Estructura de funciones</b></summary>
   Enlace miro: https://miro.com/welcomeonboard/N0RwK0hMVFI0dm8yVi9XR3Z5cUVWM0s4dGVqc1RsRTV5TGJCMHFGSnlodnVZWUtXd0dtOGRmVmJJUG5waTlCTis2NEh6SDNrMFd2NVhLL3huM0NwUkd3WUhSbnlzVXB1bU9SRlZEVktjOEJFazZ2UG1Wa2t5ZkJrSmdsUXE1bmdBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=898443066497
+  
   Secuencia de operaciones:
   [Secuencia de operaciones.pdf](https://github.com/user-attachments/files/33267746/Secuencia.de.operaciones.pdf)
 
