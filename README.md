@@ -99,10 +99,11 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
 
 
 <details>
-  <summary><b>📒 HITO 2</b></summary>
-  PRESENTACIÓN: [Hito 2 - Grupo 3 presentación](documentos/Hito%202%20
-%20Grupo%203%20presentacion.pdf)
-  INFORME: [Hito 2 - Grupo 3 informe](documentos/Hito%202%20-%20Grupo%203%20informe.pdf)
+<summary><b>📒 HITO 2</b></summary>
+
+PRESENTACIÓN: [Hito 2 - Grupo 3 presentación](documentos/Hito%202%20-%20Grupo%203%20presentacion.pdf)
+
+INFORME: [Hito 2 - Grupo 3 informe](documentos/Hito%202%20-%20Grupo%203%20informe.pdf)
 
 </details>
 
