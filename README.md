@@ -96,3 +96,23 @@ Frente al panorama de la TCE y a las limitaciones de la evaluación clínica tra
   PRESENTACION: [Hito 1 - Grupo 3 informe (1).pdf](https://github.com/user-attachments/files/33267702/Hito.1.-.Grupo.3.informe.1.pdf)
   INFORME: [Hito.1.-.Grupo.3.presentacion (1).pdf](https://github.com/user-attachments/files/33267700/Hito.1.-.Grupo.3.presentacion.1.pdf)
 </details>
+
+
+<details>
+  <summary><b>📒 HITO 2</b></summary>
+  PRESENTACIÓN: [Hito 2 - Grupo 3 presentación](documentos/Hito%202%20
+%20Grupo%203%20presentacion.pdf)
+  INFORME: [Hito 2 - Grupo 3 informe](documentos/Hito%202%20-%20Grupo%203%20informe.pdf)
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
